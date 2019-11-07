@@ -32,7 +32,7 @@ body {
 }
 
 .banner-image {
-  padding: 0 1rem;
+  padding-right: 2rem;
 }
 
 .banner-text h2 {
@@ -46,7 +46,7 @@ body {
   font-weight: lighter;
   line-height: 1.5;
   margin: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .btn {
