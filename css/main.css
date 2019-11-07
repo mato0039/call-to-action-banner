@@ -30,6 +30,7 @@ body {
   display: flex;
   justify-content: space-between;
   left: 50%;
+  max-height: 500px;
   max-width: 45em;
   position: absolute;
   transform: translateX(-50%);
