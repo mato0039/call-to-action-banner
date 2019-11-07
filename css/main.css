@@ -22,16 +22,44 @@ body {
 }
 
 .banner-content {
+  align-items: center;
   bottom: 0;
   display: flex;
+  left: 50%;
   max-width: 45em;
   position: absolute;
+  transform: translateX(-50%);
+}
+
+.banner-image {
+  padding: 0 1rem;
 }
 
 .banner-text h2 {
   font-size: 3rem;
+  margin: 0;
+  margin-bottom: 1rem;
 }
 
 .banner-text p {
   font-size: 1.5rem;
+  font-weight: lighter;
+  line-height: 1.5;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  background-color: #333;
+  border-radius: .4rem;
+  padding: 1rem;
+}
+
+a:hover {
+  background-color: #000;
+}
+
+.btn-big {
+  color: #fff;
+  text-decoration: none;
 }
