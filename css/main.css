@@ -30,7 +30,6 @@ body {
   display: flex;
   justify-content: space-between;
   left: 50%;
-  margin: 0;
   max-height: 500px;
   max-width: 45em;
   position: absolute;
@@ -38,8 +37,11 @@ body {
   width: 100%;
 }
 
-.banner-image img {
-  padding-right: 2rem;
+.banner-image {
+  width: 100%;
+}
+
+.banner-text {
   width: 100%;
 }
 
