@@ -40,6 +40,7 @@ body {
 
 .banner-image img {
   padding-right: 2rem;
+  width: 100%;
 }
 
 .banner-text h2 {
