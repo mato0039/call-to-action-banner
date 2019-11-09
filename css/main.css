@@ -30,9 +30,12 @@ body {
   display: flex;
   justify-content: space-between;
   left: 50%;
+  margin: 0;
+  max-height: 500px;
   max-width: 45em;
   position: absolute;
   transform: translateX(-50%);
+  width: 100%;
 }
 
 .banner-image img {
@@ -44,7 +47,7 @@ body {
   font-size: 3rem;
   font-weight: bold;
   margin: 0;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 
 .banner-text p {
@@ -58,7 +61,7 @@ body {
 .btn {
   background-color: #333;
   border-radius: .4rem;
-  padding: 1rem;
+  padding: 1.2rem;
 }
 
 .btn:hover {
@@ -67,7 +70,7 @@ body {
 
 .btn-big {
   color: #fff;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: lighter;
   text-decoration: none;
 }
