@@ -34,7 +34,7 @@ body {
   max-width: 45em;
   position: absolute;
   transform: translateX(-50%);
-  width: 60%;
+  width: 100%;
 }
 
 .banner-image {
@@ -42,7 +42,7 @@ body {
 }
 
 .banner-text {
-  width: 60%;
+  width: 55%;
 }
 
 .banner-text h2 {
