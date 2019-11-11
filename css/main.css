@@ -34,15 +34,15 @@ body {
   max-width: 45em;
   position: absolute;
   transform: translateX(-50%);
-  width: 100%;
+  width: 60%;
 }
 
 .banner-image {
-  width: 100%;
+  width: 33%;
 }
 
 .banner-text {
-  width: 100%;
+  width: 60%;
 }
 
 .banner-text h2 {
